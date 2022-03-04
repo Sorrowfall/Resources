@@ -1,0 +1,6 @@
+{
+	"parent": "resources:block/template_chair",
+	"textures": {
+	  "top": "resources:block/acacia_chair"
+	}
+}
